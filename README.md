@@ -1,6 +1,6 @@
 # MİKROSERVİS
 ***
-***
+
  ### Kurulum Adımları;
 ***
 #### 1.1. Boş bir Gradle projesi kurduk.
@@ -43,7 +43,7 @@ dependencies {
 Optional<Auth> findOptionalByEmailAndPassword(String email, String password);
 ```
 #### 1.4. Service ve Controller katmanlarını oluşturduk. Register Metodu yazıldı.
-***
+
 ###  OPENFEIGN;
 ***    
 #### 1.1. Mikroservisler arası haberleşmeyi sağlayan önemli bir teknolojidir. Projemizde dahil etmek için [***maven repository***](https://mvnrepository.com/) üzerinden gradle(short) bulduk ve dependencie.gradle dosyamıza ekledik.
@@ -232,7 +232,7 @@ spring:
     active: development
 ```
 #### 1.5. Artık projemiz yapılandırma dosyaları özel olarak saklanan githup repo'sundan gelmektedir.
-###  GATEWAY (KALE KAPISI);
+###  GATEWAY;
 ***
 #### 1.1. Dışarıdan gelen istekler diretk mikro servislere ulaşırsa her bir mikro servis içinde security işlemi yapman gerekir. Bu aynı işlemi bir sürü kez yapmak anlamına gelir.
 #### 1.2. Bunun yerine tüm yapımızı sur ile çevreleyip bir tek kale kapısından giriş yaptırırsan ve orada security yaparsan tek yerden hem güvenlik hem yönlendirme yapabilmiş oluyoruz.
