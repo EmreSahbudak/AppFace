@@ -5,8 +5,8 @@
 #### 1.1. Boş bir Gradle projesi kurduk.
 #### 1.2. Proje içinde dependencies.gradle dosyasını oluşturduk
 #### 1.2.1. ext{} bloğu içerisinde 
-- version{ }
-- libs{ }
+- version[ ]
+- libs[ ]
     #### blokları açtık.  
 #### 1.2.2. version{} bloğu içine [***maven repository***](https://mvnrepository.com/) sitesinden kullanaıcağımız teknolojilerin versiyonlarını sabit bir değere atadık.
 ```
