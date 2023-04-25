@@ -1,0 +1,10 @@
+rootProject.name = 'FaceEmre'
+include 'AuthService'
+include 'UserService'
+include 'PostService'
+include 'ChatService'
+include 'ConfigServer'
+include 'ConfigServerGit'
+include 'ApiGatewayService'
+include 'ElasticService'
+

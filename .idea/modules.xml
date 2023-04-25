@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiGatewayService/FaceEmre.ApiGatewayService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiGatewayService/FaceEmre.ApiGatewayService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthService/FaceEmre.AuthService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthService/FaceEmre.AuthService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/FaceEmre.ConfigServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/FaceEmre.ConfigServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServerGit/FaceEmre.ConfigServerGit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServerGit/FaceEmre.ConfigServerGit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService/FaceEmre.UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService/FaceEmre.UserService.main.iml" />
+    </modules>
+  </component>
+</project>
